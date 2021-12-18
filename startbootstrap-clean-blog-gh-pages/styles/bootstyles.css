@@ -1,0 +1,50 @@
+
+.footer{
+    color:grey;
+    font-size: 15px;
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    height: 25px;
+    position:fixed;
+    text-align: center;
+}
+
+.navigation{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    height: 30px;
+    float:right;
+    position:relative;
+
+
+}
+
+.tableau{
+    right: 50px;
+    left: 50px;
+    top: 55px;
+    bottom: 20px;
+    position:relative;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+.font{
+    font-family:sans-serif
+}
+
+.header{
+    right:30px;
+    left:30px;
+    top: 50px;
+    height: 30px;
+    padding-left: 50px;
+}
+
+.tab-bg{
+    background-image: url(../images/Skyscraper-bg.png);
+}

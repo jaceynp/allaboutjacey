@@ -1,0 +1,27 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.left{
+    left: 15px;
+    float: left;
+    
+}
+
+.underline{
+    text-decoration-line: underline;
+}
+
+.anchor{
+    font-size: 12px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    top:75px;
+}
+
+.box{
+    border-width: 1px;
+    border-color: rgb(182, 87, 75);
+    border-style:solid;
+    color:rgb(255, 248, 235)
+}
